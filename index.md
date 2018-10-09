@@ -11,3 +11,4 @@
   
 <h3>3 of my favourite things to do </h3>
 <ol> <li>Eat out at new and exciting resturants </li> <li>Spend time with my friends </li> <li>Use social media websites like Twtter and Insta </li> </ol>
+<hr>
