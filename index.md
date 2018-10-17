@@ -8,7 +8,7 @@
 <hr>
   
 <h3>3 things that I have to do </h3>
-<ul> <li>Finish homework for Computers and Language </li> <li> Start work for Language Myths </li> <li>See friends on the weekend </li> </il>
+<ul> <li>Finish homework for Computers and Language </li> <li> Start work for Language Myths </li> <li>See friends on the weekend </li>
 <hr>
   
 <h3>3 of my favourite things to do </h3>
