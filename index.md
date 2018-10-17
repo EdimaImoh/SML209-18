@@ -8,9 +8,9 @@
 <hr>
   
 <h3>3 things that I have to do </h3>
-<ul> <li>Finish homework for Computers and Language </li> <li> Start work for Language Myths </li> <li>See friends on the weekend </li>
+<ul><li>Finish homework for Computers and Language </li> <li> Start work for Language Myths </li> <li>See friends on the weekend </li>
 <hr>
   
 <h3>3 of my favourite things to do </h3>
-<ol> <li>Eat out at new and exciting resturants </li> <li>Spend time with my friends </li> <li>Use social media websites like Twtter and Insta </li> </ol>
+<ol><li>Eat out at new and exciting resturants </li> <li>Spend time with my friends </li> <li>Use social media websites like Twtter and Insta </li> </ol>
 <hr>
