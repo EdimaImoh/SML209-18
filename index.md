@@ -2,7 +2,9 @@
 <p>This is my page for SML209</P>
 <hr>
 
-<p style="color:blue;"> My name is Edima Imoh. I was born on the 2nd of March 1999 which means that I am 19 years old. I am from Nigeria and have lived in London for 16 years. I am currently at Queen Mary Univeirty of London where I study French with Business Management. </p> <a href="https://qmplus.qmul.ac.uk/course/view.php?id=741"> Visit my QMplus Hub page<a/>
+<p style="color:blue;"> My name is Edima Imoh. I was born on the 2nd of March 1999 which means that I am 19 years old. I am from Nigeria and have lived in London for 16 years. I am currently at Queen Mary Univeirty of London where I study French with Business Management. </p> 
+
+<a href="https://qmplus.qmul.ac.uk/course/view.php?id=741"> Visit my QMplus Hub page</a>
 <hr>
   
 <h3>3 things that I have to do </h3>
