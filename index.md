@@ -19,7 +19,7 @@
 
 <sup>13<sup>th</sup> October 2018</sup>
 
-<img src="https://fineartamerica.com/featured/pretty-place-chapel-sunrise-777-reid-callaway.html">
+<img src="https://photos.smugmug.com/States/South-Carolina/South-Carolina/i-bKvnCGh/0/9b19abb1/L/Another%20View%20of%20Pretty%20Place-L.jpg">
 
 <table>
   <tr><th>avoir</th><th>etre</th><th>faire</th></tr>
@@ -28,6 +28,6 @@
   <tr><td>il/elle a</td><td>il/elle est</td><td>il/elle fait</td></tr>
   <tr><td>nous avons</td><td>nous sommes</td><td>nous faisons</td></tr>
   <tr><td>vous avez</td><td>vous etes</td><td>vous faites</td></tr>
-  <tr><td>ils ont</td><td>ils sont</td><ils font</td></tr>
+  <tr><td>ils ont</td><td>ils sont</td><td><ils font</td></tr>
   
   <p <li lang="fr"> mon plat prefere est chinois</p> 
