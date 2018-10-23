@@ -14,3 +14,20 @@
 <h3>3 of my favourite things to do </h3>
 <ol><li>Eat out at new and exciting resturants </li> <li>Spend time with my friends </li> <li>Use social media websites like Twtter and Insta </li> </ol>
 <hr>
+
+<h1>HTML Part 2 Homework</h1>
+
+<sup>13<sup>th</sup> October 2018</sup>
+
+<img src="https://fineartamerica.com/featured/pretty-place-chapel-sunrise-777-reid-callaway.html">
+
+<table>
+  <tr><th>avoir</th><th>etre</th><th>faire</th></tr>
+  <tr><td>j'ai</td><td>je suis</td><td>je fais</td></tr>
+  <tr><td>tu as</td><td>tu es</td><td>tu fais</td></tr>
+  <tr><td>il/elle a</td><td>il/elle est</td><td>il/elle fait</td></tr>
+  <tr><td>nous avons</td><td>nous sommes</td><td>nous faisons</td></tr>
+  <tr><td>vous avez</td><td>vous etes</td><td>vous faites</td></tr>
+  <tr><td>ils ont</td><td>ils sont</td><ils font</td></tr>
+  
+  <p <li lang="fr"> mon plat prefere est chinois</p> 
