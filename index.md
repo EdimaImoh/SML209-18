@@ -30,4 +30,4 @@
   <tr><td>vous avez</td><td>vous etes</td><td>vous faites</td></tr>
   <tr><td>ils ont</td><td>ils sont</td><td>ils font</td></tr>
   
-  <p <li lang="fr">mon plat prefere est chinois</li></p> 
+  <p <html lang="fr">mon plat prefere est chinois</html></p> 
