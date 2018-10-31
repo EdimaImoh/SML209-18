@@ -33,5 +33,4 @@ This is pretty place chapel in North Carolina. It is situated atop a mountain an
   <tr><td>nous avons</td><td>nous sommes</td><td>nous faisons</td></tr>
   <tr><td>vous avez</td><td>vous etes</td><td>vous faites</td></tr>
   <tr><td>ils ont</td><td>ils sont</td><td>ils font</td></tr>
-  
-  <p <html lang="fr">mon plat prefere est chinois</html></p> 
+ 
