@@ -19,8 +19,11 @@
 
 <sup>13<sup>th</sup> October 2018</sup>
 
-<img class="imgleft" src="https://photos.smugmug.com/States/South-Carolina/South-Carolina/i-bKvnCGh/0/9b19abb1/L/Another%20View%20of%20Pretty%20Place-L.jpg" alt="
-=Pretty Place Chapel">
+<p> 
+ <img class="imgleft" src="https://photos.smugmug.com/States/South-Carolina/South-Carolina/i-bKvnCGh/0/9b19abb1/L/Another%20View%20of%20Pretty%20Place-L.jpg" alt="
+=Pretty Place Chapel" >
+This is pretty place chapel in North Carolina. It is situated atop a mountain and this picture was taken on a very sunny autumn day. It is aslo used as a wedding venue and couples are able to make reservaitions to be married here. Although there are many pictures of this place there is not much information concerning the actual chapel suhc as when it was built or who it was built by
+</p>  
 
 <table>
   <tr><th>avoir</th><th>etre</th><th>faire</th></tr>
