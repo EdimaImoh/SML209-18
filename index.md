@@ -19,7 +19,8 @@
 
 <sup>13<sup>th</sup> October 2018</sup>
 
-<img src="https://photos.smugmug.com/States/South-Carolina/South-Carolina/i-bKvnCGh/0/9b19abb1/L/Another%20View%20of%20Pretty%20Place-L.jpg">
+<img class="imgleft" src="https://photos.smugmug.com/States/South-Carolina/South-Carolina/i-bKvnCGh/0/9b19abb1/L/Another%20View%20of%20Pretty%20Place-L.jpg" alt="
+=Pretty Place Chapel">
 
 <table>
   <tr><th>avoir</th><th>etre</th><th>faire</th></tr>
